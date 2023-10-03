@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Dictonary-App/static/css/main.31d6cfe0.css",
-    "main.js": "/React-Dictonary-App/static/js/main.b90ff061.js",
+    "main.css": "/React-Dictonary-App/static/css/main.073c9b0a.css",
+    "main.js": "/React-Dictonary-App/static/js/main.7486b8ad.js",
+    "static/js/787.9c767e54.chunk.js": "/React-Dictonary-App/static/js/787.9c767e54.chunk.js",
     "index.html": "/React-Dictonary-App/index.html",
-    "main.b90ff061.js.map": "/React-Dictonary-App/static/js/main.b90ff061.js.map"
+    "main.073c9b0a.css.map": "/React-Dictonary-App/static/css/main.073c9b0a.css.map",
+    "main.7486b8ad.js.map": "/React-Dictonary-App/static/js/main.7486b8ad.js.map",
+    "787.9c767e54.chunk.js.map": "/React-Dictonary-App/static/js/787.9c767e54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.b90ff061.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7486b8ad.js"
   ]
 }
