@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/React-Dictonary-App/static/css/main.31d6cfe0.css",
+    "main.js": "/React-Dictonary-App/static/js/main.b90ff061.js",
+    "index.html": "/React-Dictonary-App/index.html",
+    "main.b90ff061.js.map": "/React-Dictonary-App/static/js/main.b90ff061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b90ff061.js"
+  ]
+}
